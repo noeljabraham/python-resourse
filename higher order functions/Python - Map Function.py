@@ -1,0 +1,3 @@
+# # syntax
+# map(function, iterable)
+
